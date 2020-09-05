@@ -1,0 +1,11 @@
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\bin\Debug\WebSuite.dll
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\bin\Debug\WebSuite.pdb
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\bin\Debug\WebSuite.xml
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\bin\Debug\websocket-sharp.dll
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\obj\Debug\WebSuite.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\obj\Debug\WebSuite.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\obj\Debug\WebSuite.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\obj\Debug\WebSuite.dll
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\obj\Debug\WebSuite.xml
+C:\Users\Jorge\Documents\Visual Studio 2017\Projects\Websocket\WebSuite\obj\Debug\WebSuite.pdb

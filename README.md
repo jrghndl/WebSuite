@@ -3,3 +3,6 @@ A library that contains easy to use and user-friendly tools for developing WebSo
 
 ## Documentation
 https://github.com/jrghndl/Web-Suite/wiki
+
+## Example
+https://github.com/jrghndl/WebConsole
